@@ -1,0 +1,29 @@
+# ninja log v7
+0	4674	1789752893297570629	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex02 - layout exercise/instructor/linux/flutter/ephemeral/libflutter_linux_gtk.so	e6893f2ecba00bab
+0	4674	1789752893297570629	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex02 - layout exercise/instructor/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	e6893f2ecba00bab
+0	4674	1789752893297570629	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex02 - layout exercise/instructor/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	e6893f2ecba00bab
+0	4674	1789752893297570629	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex02 - layout exercise/instructor/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	e6893f2ecba00bab
+0	4674	1789752893297570629	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex02 - layout exercise/instructor/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	e6893f2ecba00bab
+0	4674	1789752893297570629	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex02 - layout exercise/instructor/linux/flutter/ephemeral/flutter_linux/fl_engine.h	e6893f2ecba00bab
+0	4674	1789752893297570629	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex02 - layout exercise/instructor/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	e6893f2ecba00bab
+0	4674	1789752893297570629	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex02 - layout exercise/instructor/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	e6893f2ecba00bab
+0	4674	1789752893297570629	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex02 - layout exercise/instructor/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	e6893f2ecba00bab
+0	4674	1789752893297570629	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex02 - layout exercise/instructor/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	e6893f2ecba00bab
+0	4674	1789752893297570629	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex02 - layout exercise/instructor/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	e6893f2ecba00bab
+0	4674	1789752893297570629	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex02 - layout exercise/instructor/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	e6893f2ecba00bab
+0	4674	1789752893297570629	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex02 - layout exercise/instructor/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	e6893f2ecba00bab
+0	4674	1789752893297570629	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex02 - layout exercise/instructor/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	e6893f2ecba00bab
+0	4674	1789752893297570629	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex02 - layout exercise/instructor/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	e6893f2ecba00bab
+0	4674	1789752893297570629	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex02 - layout exercise/instructor/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	e6893f2ecba00bab
+0	4674	1789752893297570629	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex02 - layout exercise/instructor/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	e6893f2ecba00bab
+0	4674	1789752893297570629	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex02 - layout exercise/instructor/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	e6893f2ecba00bab
+0	4674	1789752893297570629	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex02 - layout exercise/instructor/linux/flutter/ephemeral/flutter_linux/fl_value.h	e6893f2ecba00bab
+0	4674	1789752893297570629	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex02 - layout exercise/instructor/linux/flutter/ephemeral/flutter_linux/fl_view.h	e6893f2ecba00bab
+0	4674	1789752893297570629	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex02 - layout exercise/instructor/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	e6893f2ecba00bab
+0	4674	1789752893297570629	flutter/_phony_	e6893f2ecba00bab
+0	4674	1789752893297570629	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex02 - layout exercise/instructor/build/linux/x64/debug/flutter/_phony_	e6893f2ecba00bab
+4674	4878	1789752897972356760	CMakeFiles/week_03_profile_layout.dir/main.cc.o	39cf3aa92a14b85d
+4674	4887	1789752897972556617	CMakeFiles/week_03_profile_layout.dir/flutter/generated_plugin_registrant.cc.o	a913ae2cfdb44aa3
+4674	4906	1789752897972483715	CMakeFiles/week_03_profile_layout.dir/my_application.cc.o	74b11841ad10ec7e
+4906	4964	1789752898203677328	intermediates_do_not_run/week_03_profile_layout	554b9f6911ac2a70
+4964	4985	1789752898261678590	CMakeFiles/install.util	6644ae164bfbe07d

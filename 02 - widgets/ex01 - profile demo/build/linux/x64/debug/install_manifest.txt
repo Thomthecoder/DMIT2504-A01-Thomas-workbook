@@ -1,0 +1,14 @@
+/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex01 - profile demo/build/linux/x64/debug/bundle/week_02_profile_demo
+/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex01 - profile demo/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex01 - profile demo/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex01 - profile demo/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex01 - profile demo/build/linux/x64/debug/bundle/data/flutter_assets/images/me.jpg
+/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex01 - profile demo/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex01 - profile demo/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex01 - profile demo/build/linux/x64/debug/bundle/data/flutter_assets/shaders/stretch_effect.frag
+/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex01 - profile demo/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex01 - profile demo/build/linux/x64/debug/bundle/data/flutter_assets/NativeAssetsManifest.json
+/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex01 - profile demo/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex01 - profile demo/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex01 - profile demo/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex01 - profile demo/build/linux/x64/debug/bundle/data/flutter_assets/version.json

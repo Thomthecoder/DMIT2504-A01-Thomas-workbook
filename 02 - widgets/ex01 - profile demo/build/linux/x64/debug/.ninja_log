@@ -1,0 +1,54 @@
+# ninja log v7
+0	4637	1789746549073358731	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex01 - profile demo/linux/flutter/ephemeral/libflutter_linux_gtk.so	4b0fdb3b4a44e91f
+0	4637	1789746549073358731	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex01 - profile demo/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	4b0fdb3b4a44e91f
+0	4637	1789746549073358731	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex01 - profile demo/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	4b0fdb3b4a44e91f
+0	4637	1789746549073358731	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex01 - profile demo/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	4b0fdb3b4a44e91f
+0	4637	1789746549073358731	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex01 - profile demo/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	4b0fdb3b4a44e91f
+0	4637	1789746549073358731	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex01 - profile demo/linux/flutter/ephemeral/flutter_linux/fl_engine.h	4b0fdb3b4a44e91f
+0	4637	1789746549073358731	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex01 - profile demo/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	4b0fdb3b4a44e91f
+0	4637	1789746549073358731	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex01 - profile demo/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	4b0fdb3b4a44e91f
+0	4637	1789746549073358731	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex01 - profile demo/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	4b0fdb3b4a44e91f
+0	4637	1789746549073358731	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex01 - profile demo/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	4b0fdb3b4a44e91f
+0	4637	1789746549073358731	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex01 - profile demo/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	4b0fdb3b4a44e91f
+0	4637	1789746549073358731	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex01 - profile demo/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	4b0fdb3b4a44e91f
+0	4637	1789746549073358731	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex01 - profile demo/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	4b0fdb3b4a44e91f
+0	4637	1789746549073358731	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex01 - profile demo/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	4b0fdb3b4a44e91f
+0	4637	1789746549073358731	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex01 - profile demo/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	4b0fdb3b4a44e91f
+0	4637	1789746549073358731	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex01 - profile demo/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	4b0fdb3b4a44e91f
+0	4637	1789746549073358731	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex01 - profile demo/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	4b0fdb3b4a44e91f
+0	4637	1789746549073358731	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex01 - profile demo/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	4b0fdb3b4a44e91f
+0	4637	1789746549073358731	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex01 - profile demo/linux/flutter/ephemeral/flutter_linux/fl_value.h	4b0fdb3b4a44e91f
+0	4637	1789746549073358731	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex01 - profile demo/linux/flutter/ephemeral/flutter_linux/fl_view.h	4b0fdb3b4a44e91f
+0	4637	1789746549073358731	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex01 - profile demo/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	4b0fdb3b4a44e91f
+0	4637	1789746549073358731	flutter/_phony_	4b0fdb3b4a44e91f
+0	4637	1789746549073358731	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex01 - profile demo/build/linux/x64/debug/flutter/_phony_	4b0fdb3b4a44e91f
+4637	4834	1789746553711819598	CMakeFiles/week_02_profile_demo.dir/main.cc.o	da01510df78fd49e
+4638	4848	1789746553712012809	CMakeFiles/week_02_profile_demo.dir/flutter/generated_plugin_registrant.cc.o	8b9c0b1ad7a613db
+4637	4864	1789746553711937748	CMakeFiles/week_02_profile_demo.dir/my_application.cc.o	de25a7a0e217ba32
+4864	4916	1789746553937468239	intermediates_do_not_run/week_02_profile_demo	1c427d191b16c376
+4916	4938	1789746553989469409	CMakeFiles/install.util	346d1b139e7abc6d
+2	1017	1789752177409311801	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex01 - profile demo/linux/flutter/ephemeral/libflutter_linux_gtk.so	4b0fdb3b4a44e91f
+2	1017	1789752177409311801	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex01 - profile demo/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	4b0fdb3b4a44e91f
+2	1017	1789752177409311801	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex01 - profile demo/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	4b0fdb3b4a44e91f
+2	1017	1789752177409311801	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex01 - profile demo/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	4b0fdb3b4a44e91f
+2	1017	1789752177409311801	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex01 - profile demo/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	4b0fdb3b4a44e91f
+2	1017	1789752177409311801	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex01 - profile demo/linux/flutter/ephemeral/flutter_linux/fl_engine.h	4b0fdb3b4a44e91f
+2	1017	1789752177409311801	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex01 - profile demo/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	4b0fdb3b4a44e91f
+2	1017	1789752177409311801	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex01 - profile demo/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	4b0fdb3b4a44e91f
+2	1017	1789752177409311801	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex01 - profile demo/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	4b0fdb3b4a44e91f
+2	1017	1789752177409311801	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex01 - profile demo/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	4b0fdb3b4a44e91f
+2	1017	1789752177409311801	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex01 - profile demo/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	4b0fdb3b4a44e91f
+2	1017	1789752177409311801	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex01 - profile demo/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	4b0fdb3b4a44e91f
+2	1017	1789752177409311801	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex01 - profile demo/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	4b0fdb3b4a44e91f
+2	1017	1789752177409311801	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex01 - profile demo/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	4b0fdb3b4a44e91f
+2	1017	1789752177409311801	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex01 - profile demo/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	4b0fdb3b4a44e91f
+2	1017	1789752177409311801	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex01 - profile demo/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	4b0fdb3b4a44e91f
+2	1017	1789752177409311801	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex01 - profile demo/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	4b0fdb3b4a44e91f
+2	1017	1789752177409311801	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex01 - profile demo/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	4b0fdb3b4a44e91f
+2	1017	1789752177409311801	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex01 - profile demo/linux/flutter/ephemeral/flutter_linux/fl_value.h	4b0fdb3b4a44e91f
+2	1017	1789752177409311801	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex01 - profile demo/linux/flutter/ephemeral/flutter_linux/fl_view.h	4b0fdb3b4a44e91f
+2	1017	1789752177409311801	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex01 - profile demo/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	4b0fdb3b4a44e91f
+2	1017	1789752177409311801	flutter/_phony_	4b0fdb3b4a44e91f
+2	1017	1789752177409311801	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex01 - profile demo/build/linux/x64/debug/flutter/_phony_	4b0fdb3b4a44e91f
+1017	1071	1789752178424332881	intermediates_do_not_run/week_02_profile_demo	6b291efd48237741
+1071	1082	1789752178478334003	CMakeFiles/install.util	346d1b139e7abc6d

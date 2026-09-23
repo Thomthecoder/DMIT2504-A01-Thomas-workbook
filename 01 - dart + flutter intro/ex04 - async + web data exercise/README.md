@@ -19,4 +19,4 @@ Vernacular      The language of a people or a national language.
 - Continue to allow the user to search for words until they choose to quit the program
 - **OPTIONAL:** you may want to create a class to represent the returned word data object
 
-The endpoint and documentation can be found here: [https://dictionaryapi.dev/](https://dictionaryapi.dev/)
+The endpoint and documentation can be found here: [http://freedictionaryapi.com/api/](https://freedictionaryapi.com/)

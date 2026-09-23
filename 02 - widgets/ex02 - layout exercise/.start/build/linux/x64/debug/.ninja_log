@@ -1,0 +1,54 @@
+# ninja log v7
+1	1488	1789746620411956742	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/week_03_profile_layout/linux/flutter/ephemeral/libflutter_linux_gtk.so	3b4f9a1ae887642c
+1	1488	1789746620411956742	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/week_03_profile_layout/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	3b4f9a1ae887642c
+1	1488	1789746620411956742	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/week_03_profile_layout/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	3b4f9a1ae887642c
+1	1488	1789746620411956742	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/week_03_profile_layout/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	3b4f9a1ae887642c
+1	1488	1789746620411956742	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/week_03_profile_layout/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	3b4f9a1ae887642c
+1	1488	1789746620411956742	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/week_03_profile_layout/linux/flutter/ephemeral/flutter_linux/fl_engine.h	3b4f9a1ae887642c
+1	1488	1789746620411956742	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/week_03_profile_layout/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	3b4f9a1ae887642c
+1	1488	1789746620411956742	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/week_03_profile_layout/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	3b4f9a1ae887642c
+1	1488	1789746620411956742	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/week_03_profile_layout/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	3b4f9a1ae887642c
+1	1488	1789746620411956742	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/week_03_profile_layout/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	3b4f9a1ae887642c
+1	1488	1789746620411956742	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/week_03_profile_layout/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	3b4f9a1ae887642c
+1	1488	1789746620411956742	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/week_03_profile_layout/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	3b4f9a1ae887642c
+1	1488	1789746620411956742	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/week_03_profile_layout/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	3b4f9a1ae887642c
+1	1488	1789746620411956742	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/week_03_profile_layout/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	3b4f9a1ae887642c
+1	1488	1789746620411956742	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/week_03_profile_layout/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	3b4f9a1ae887642c
+1	1488	1789746620411956742	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/week_03_profile_layout/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	3b4f9a1ae887642c
+1	1488	1789746620411956742	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/week_03_profile_layout/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	3b4f9a1ae887642c
+1	1488	1789746620411956742	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/week_03_profile_layout/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	3b4f9a1ae887642c
+1	1488	1789746620411956742	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/week_03_profile_layout/linux/flutter/ephemeral/flutter_linux/fl_value.h	3b4f9a1ae887642c
+1	1488	1789746620411956742	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/week_03_profile_layout/linux/flutter/ephemeral/flutter_linux/fl_view.h	3b4f9a1ae887642c
+1	1488	1789746620411956742	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/week_03_profile_layout/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	3b4f9a1ae887642c
+1	1488	1789746620411956742	flutter/_phony_	3b4f9a1ae887642c
+1	1488	1789746620411956742	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/week_03_profile_layout/build/linux/x64/debug/flutter/_phony_	3b4f9a1ae887642c
+4706	4979	1789746518911459614	CMakeFiles/week_03_profile_layout.dir/main.cc.o	8b666cc40f004c48
+4706	4991	1789746518911737176	CMakeFiles/week_03_profile_layout.dir/flutter/generated_plugin_registrant.cc.o	108177bf7575f61
+4706	5012	1789746518911642141	CMakeFiles/week_03_profile_layout.dir/my_application.cc.o	11d28be0a33c5c4f
+1489	1544	1789746621899989899	intermediates_do_not_run/week_03_profile_layout	4505307e4764a803
+1544	1554	1789746621954991124	CMakeFiles/install.util	28eea1b4797da84
+1	1485	1789746657583782997	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/week_03_profile_layout/linux/flutter/ephemeral/libflutter_linux_gtk.so	3b4f9a1ae887642c
+1	1485	1789746657583782997	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/week_03_profile_layout/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	3b4f9a1ae887642c
+1	1485	1789746657583782997	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/week_03_profile_layout/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	3b4f9a1ae887642c
+1	1485	1789746657583782997	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/week_03_profile_layout/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	3b4f9a1ae887642c
+1	1485	1789746657583782997	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/week_03_profile_layout/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	3b4f9a1ae887642c
+1	1485	1789746657583782997	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/week_03_profile_layout/linux/flutter/ephemeral/flutter_linux/fl_engine.h	3b4f9a1ae887642c
+1	1485	1789746657583782997	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/week_03_profile_layout/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	3b4f9a1ae887642c
+1	1485	1789746657583782997	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/week_03_profile_layout/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	3b4f9a1ae887642c
+1	1485	1789746657583782997	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/week_03_profile_layout/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	3b4f9a1ae887642c
+1	1485	1789746657583782997	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/week_03_profile_layout/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	3b4f9a1ae887642c
+1	1485	1789746657583782997	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/week_03_profile_layout/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	3b4f9a1ae887642c
+1	1485	1789746657583782997	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/week_03_profile_layout/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	3b4f9a1ae887642c
+1	1485	1789746657583782997	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/week_03_profile_layout/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	3b4f9a1ae887642c
+1	1485	1789746657583782997	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/week_03_profile_layout/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	3b4f9a1ae887642c
+1	1485	1789746657583782997	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/week_03_profile_layout/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	3b4f9a1ae887642c
+1	1485	1789746657583782997	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/week_03_profile_layout/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	3b4f9a1ae887642c
+1	1485	1789746657583782997	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/week_03_profile_layout/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	3b4f9a1ae887642c
+1	1485	1789746657583782997	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/week_03_profile_layout/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	3b4f9a1ae887642c
+1	1485	1789746657583782997	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/week_03_profile_layout/linux/flutter/ephemeral/flutter_linux/fl_value.h	3b4f9a1ae887642c
+1	1485	1789746657583782997	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/week_03_profile_layout/linux/flutter/ephemeral/flutter_linux/fl_view.h	3b4f9a1ae887642c
+1	1485	1789746657583782997	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/week_03_profile_layout/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	3b4f9a1ae887642c
+1	1485	1789746657583782997	flutter/_phony_	3b4f9a1ae887642c
+1	1485	1789746657583782997	/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/week_03_profile_layout/build/linux/x64/debug/flutter/_phony_	3b4f9a1ae887642c
+1485	1539	1789746659067815899	intermediates_do_not_run/week_03_profile_layout	4505307e4764a803
+1539	1551	1789746659121817096	CMakeFiles/install.util	28eea1b4797da84

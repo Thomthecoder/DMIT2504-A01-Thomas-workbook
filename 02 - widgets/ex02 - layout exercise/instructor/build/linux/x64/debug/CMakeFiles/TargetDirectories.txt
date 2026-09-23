@@ -1,0 +1,14 @@
+/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex02 - layout exercise/instructor/build/linux/x64/debug/CMakeFiles/week_03_profile_layout.dir
+/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex02 - layout exercise/instructor/build/linux/x64/debug/CMakeFiles/edit_cache.dir
+/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex02 - layout exercise/instructor/build/linux/x64/debug/CMakeFiles/rebuild_cache.dir
+/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex02 - layout exercise/instructor/build/linux/x64/debug/CMakeFiles/list_install_components.dir
+/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex02 - layout exercise/instructor/build/linux/x64/debug/CMakeFiles/install.dir
+/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex02 - layout exercise/instructor/build/linux/x64/debug/CMakeFiles/install/local.dir
+/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex02 - layout exercise/instructor/build/linux/x64/debug/CMakeFiles/install/strip.dir
+/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex02 - layout exercise/instructor/build/linux/x64/debug/flutter/CMakeFiles/flutter_assemble.dir
+/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex02 - layout exercise/instructor/build/linux/x64/debug/flutter/CMakeFiles/edit_cache.dir
+/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex02 - layout exercise/instructor/build/linux/x64/debug/flutter/CMakeFiles/rebuild_cache.dir
+/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex02 - layout exercise/instructor/build/linux/x64/debug/flutter/CMakeFiles/list_install_components.dir
+/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex02 - layout exercise/instructor/build/linux/x64/debug/flutter/CMakeFiles/install.dir
+/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex02 - layout exercise/instructor/build/linux/x64/debug/flutter/CMakeFiles/install/local.dir
+/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/ex02 - layout exercise/instructor/build/linux/x64/debug/flutter/CMakeFiles/install/strip.dir
