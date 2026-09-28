@@ -16,7 +16,7 @@ Future<dynamic> getJSON(String urlString) async {
 String API_BASE_URL = 'https://freedictionaryapi.com/api/v1';
 
 Future<String> getWordDefinition(String word) async {
-  final urlString = '$API_BASE_URL/entries/en/$word';
+  final urlString = '${API_BASE_URL}/entries/en/${word}';
   var data        = await getJSON(urlString);
   return data['entries'][0]['senses'][0]['definition'];
 }
