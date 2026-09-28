@@ -20,5 +20,5 @@ void main() async {
   // 4. render the first definition out to terminal 
   print('\nWord            Definition');
   print('--------------  ---------------------------------------------------');
-  print('$word      $definition');
+  print('${word}      ${definition}');
 } 
