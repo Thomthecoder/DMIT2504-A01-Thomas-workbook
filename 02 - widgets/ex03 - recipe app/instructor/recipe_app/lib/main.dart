@@ -1,0 +1,37 @@
+import 'package:flutter/material.dart';
+
+void main() {
+  runApp(const MyApp());
+}
+
+class MyApp extends StatelessWidget {
+  const MyApp({super.key});
+
+  // This widget is the root of your application.
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      home: Scaffold(
+        backgroundColor: Colors.blueGrey.shade200,
+        body: Column(
+          children: [ 
+            Padding(
+              padding: EdgeInsets.all(16.0),
+              child: const Text(
+                "my cool recipe app",
+                style: TextStyle(
+                  fontSize: 32,
+                  fontWeight: FontWeight.bold,
+                ),
+              ),
+            ),
+            Image.asset(
+              'assets/images/cool.jpg',
+              height: 400,
+            ),
+          ],
+        ),
+      ),
+    );
+  }
+}
